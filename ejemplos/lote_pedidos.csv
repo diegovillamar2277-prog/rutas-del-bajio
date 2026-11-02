@@ -1,0 +1,13 @@
+folio_pedido,id_cliente,producto,cantidad,origen,destino,fecha_pedido,id_ruta,estado
+ ped-0010 , cli-011 ,Refrescos surtidos,  120 ,Irapuato,Celaya,2026-11-01,RUTA-03,
+PED-0011,CLI-010,"Tenis deportivos, caja mixta",35,León,Silao,2026-11-01,,pendiente
+PED-0012,CLI-999,Harina,10,León,Irapuato,2026-11-01,,
+PED-0013,CLI-012,Cuero,12.5,Silao,León,2026-11-01,,
+PED-0014,CLI-012,Cuero,abc,Silao,Silao,2026-11-01,,
+PED-0015,CLI-010,Hormas,20,León,Celaya,2026-11-01,RUTA-01,
+PED-0011,CLI-011,Galletas,30,Irapuato,Celaya,2026-11-01,,
+PED-0001,CLI-010,Cinturones,15,León,Irapuato,2026-11-01,,
+PED-0016,CLI-010,Plantillas,50,León,Irapuato,2026-13-01,,
+PED-0017,CLI-011,Agua embotellada,80,Irapuato,León,2026-11-02,,en_transito
+PED-0018,CLI-012,Piel,,Silao,León,2026-11-02,,
+PED-0019,CLI-011,"Dulces típicos, Celaya",25,Irapuato,celaya,2026-11-02,RUTA-03,

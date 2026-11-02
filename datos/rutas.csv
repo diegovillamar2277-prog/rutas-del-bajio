@@ -1,0 +1,4 @@
+id_ruta,origen,destino,distancia_km,tiempo_estimado_horas,id_transportista
+RUTA-01,León,Irapuato,69.5,1.25,TRA-01
+RUTA-02,León,Silao,33.0,0.6,TRA-02
+RUTA-03,Irapuato,Celaya,61.0,1.1,TRA-01

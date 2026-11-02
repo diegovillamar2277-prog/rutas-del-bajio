@@ -1,0 +1,5 @@
+folio_pedido,id_cliente,producto,cantidad,origen,destino,fecha_pedido,estado,id_ruta
+PED-0001,CLI-010,"Botas de piel, talla 27",40,León,Irapuato,2026-10-20,entregado,RUTA-01
+PED-0002,CLI-010,Suelas de hule,200,León,Silao,2026-10-22,en_transito,RUTA-02
+PED-0003,CLI-011,Cajas de cartón,150,Irapuato,Celaya,2026-10-25,pendiente,RUTA-03
+PED-0004,CLI-012,Piel curtida,60,Silao,León,2026-10-28,pendiente,

@@ -1,0 +1,11 @@
+linea,folio_pedido,campo,valor_original,motivo
+4,PED-0012,id_cliente,CLI-999,el cliente no existe
+5,PED-0013,cantidad,12.5,debe ser un número entero
+6,PED-0014,cantidad,abc,debe ser un número entero
+6,PED-0014,destino,Silao,origen y destino no pueden ser iguales
+7,PED-0015,id_ruta,RUTA-01,origen/destino no coinciden con la ruta
+8,PED-0011,folio_pedido,PED-0011,folio repetido en el lote (línea 3)
+9,PED-0001,folio_pedido,PED-0001,el folio ya existe en pedidos.csv
+10,PED-0016,fecha_pedido,2026-13-01,"fecha inválida, se espera AAAA-MM-DD"
+11,PED-0017,estado,en_transito,un pedido importado solo puede ser pendiente
+12,PED-0018,cantidad,,campo obligatorio vacío
